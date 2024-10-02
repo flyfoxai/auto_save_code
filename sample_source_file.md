@@ -41,7 +41,7 @@ cursor-code-change-manager/
 
 # Cursor代码变动管理项目文档 - 后端主要模块详细说明
 
-## app/__init__.py
+## backend/app/__init__.py
 
 ```python
 from flask import Flask
